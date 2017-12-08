@@ -1,0 +1,24 @@
+{
+  "name": "routerstatus-express",
+  "version": "1.0.0",
+  "description": "Detecting express http router tasks time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UsherYue/routerstatus.git"
+  },
+  "keywords": [
+    "routerstatus",
+    "router",
+    "apirouter"
+  ],
+  "author": "usher.yue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UsherYue/routerstatus/issues"
+  },
+  "homepage": "https://github.com/UsherYue/routerstatus#readme"
+}

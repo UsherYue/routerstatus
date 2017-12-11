@@ -1,6 +1,6 @@
 {
   "name": "routerstatus-express",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Detecting express http router tasks time",
   "main": "index.js",
   "scripts": {
